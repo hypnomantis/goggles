@@ -1,0 +1,23 @@
+
+! name: Uruguay
+! description: Rank results to boost content from Uruguay sources.
+! public: true
+! author: Hypnomantis
+! avatar: #0038A8
+
+/r/uruguay/$boost=3,site=reddit.com
+$boost=3,site=elpais.com.uy
+$boost=3,site=lr21.com.uy
+$boost=3,site=montevideo.com.uy
+$boost=3,site=elobservador.com.uy
+$boost=3,site=180.com.uy
+$boost=3,site=ladiaria.com.uy
+$boost=3,site=subrayado.com.uy
+$boost=3,site=teledoce.com
+$boost=3,site=uypress.net
+$boost=3,site=mediospublicos.uy
+$boost=3,site=parlamento.gub.uy
+$boost=3,site=impo.com.uy
+$boost=3,site=auf.org.uy
+$boost=3,site=futbol.com.uy
+$boost=3,site=espn.com.uy
