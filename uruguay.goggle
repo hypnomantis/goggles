@@ -5,6 +5,7 @@
 ! author: Hypnomantis
 ! avatar: #0038A8
 
+$discard
 /r/uruguay/$boost=3,site=reddit.com
 $boost=3,site=elpais.com.uy
 $boost=3,site=lr21.com.uy
